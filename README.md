@@ -11,7 +11,7 @@ I fritiden liker jeg å se på fotball og spille dataspill.
 <h2>👨‍💻 Dataingeniør prosjekter</h2>
 
 - <b>Teambasert samhandling(IDATG1004)</b>
-  - [Prosjekter](link)
+  - [Prosjekt i datamaskinarkitektur](https://github.com/Thirisan23/Prosjekt-i-datamaskinarkitektur)
 - <b>Programmering1(IDATG1003)</b>
   - [Prosjekter](link)
 
