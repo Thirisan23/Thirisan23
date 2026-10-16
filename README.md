@@ -14,6 +14,8 @@ I fritiden liker jeg å se på fotball og spille dataspill.
   - [Prosjekt i datamaskinarkitektur](https://github.com/Thirisan23/Prosjekt-i-datamaskinarkitektur)
   - [LEGO-oppgave 2](https://github.com/Thirisan23/LEGO-oppgave-2)
   - [LEGO-oppgave 3](https://github.com/Thirisan23/LEGO-oppgave-3)
+- <b>Programmering1(IDATG1003)</b>
+  - [Klokke-oppgave](https://github.com/Thirisan23/Klokke-prosjekt)
 
 
 
