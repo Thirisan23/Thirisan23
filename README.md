@@ -7,7 +7,7 @@ Jeg interesserer meg sterkt for It og jeg bruker tid i fritiden på å kode og j
 I fritiden liker jeg å se på fotball og spille dataspill.
 </p>
 
-![image alt](https://github.com/Thirisan23/Thirisan23/blob/main/bildegithub.jpeg?raw=true)
+<img src="https://github.com/Thirisan23/Thirisan23/blob/main/bildegithub.jpeg?raw=true" alt="Bilde av Thirisan" width="150px">
 
 
 <h2>👨‍💻 Dataingeniør prosjekter</h2>
