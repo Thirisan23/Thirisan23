@@ -7,6 +7,8 @@ Jeg interesserer meg sterkt for It og jeg bruker tid i fritiden på å kode og j
 I fritiden liker jeg å se på fotball og spille dataspill.
 </p>
 
+![image alt](IMG_1606.HEIC)
+
 
 <h2>👨‍💻 Dataingeniør prosjekter</h2>
 
